@@ -1,0 +1,29 @@
+
+.container {
+    padding: 40px;
+    flex-wrap: wrap;
+    display:flex;
+    gap: 50px; 
+    justify-content: center; 
+}
+
+.card {
+    width: 300px;
+    padding: 30px;
+    border: 1px solid;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 8px 9px rgb(70, 69, 69);  
+}
+
+footer {
+    
+    color:black;
+    text-align: center;
+    padding: 10%;
+}
+
+  
+
+  
+
